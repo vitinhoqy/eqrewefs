@@ -1,0 +1,25 @@
+.body {
+    display: flex;
+}
+.logo {
+    height: 8%;
+    width: 8%;
+}
+.pesquisa {
+    margin-left: 1501px;
+    bottom: 500px;
+}
+.header {
+ display: flex;
+ align-items: center;
+}
+.mosquito {
+    background-color: rgb(8, 119, 54);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.maior{
+    display: flex;
+    padding-top: 2%;
+    padding-left: 18%;
+}
